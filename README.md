@@ -1,5 +1,8 @@
 # Employee Serialization (Java Project)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Java](https://img.shields.io/badge/Java-21%2B-blue)
+
 This project demonstrates how to serialize and deserialize Java objects using the `Serializable` interface.  
 It is implemented with a simple **Employee Management example**, where employee details are stored, converted into a byte stream, and later restored back into objects.
 
